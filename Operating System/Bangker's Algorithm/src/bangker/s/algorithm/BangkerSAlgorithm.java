@@ -74,7 +74,7 @@ public class BangkerSAlgorithm {
                         check = false;
                     }
                 }
-                System.out.println("/nP"+i +" must be kept in safe sequence\n");
+                System.out.println("\nP"+i +" must be kept in safe sequence\n");
                 if (check == true) {
                     lastStep();
                 }
